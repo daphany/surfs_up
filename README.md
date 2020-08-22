@@ -17,7 +17,7 @@ We are looking to open up a surf&serve shop in Hawaii; an analysis on weather is
 
 
 ## Summary:
-There are many factors other than just temperature that might affect people's willingness to surf thus our profibility of the business. As a result, we could do another query on precipitation in June and December. My hypothesis is that people are less willing to surf in a raining day.
+There are many factors other than just temperature that might affect people's willingness to surf thus our profitability of the business. As a result, we could do another query on precipitation in June and December. My hypothesis is that people are less willing to surf in a raining day.
 Although its not included in our dataset but we could also gather the weather information like cloudiness and wind speed and analyze these two additional factors that may affect surfing Lastly, another analysis can be done on the possibility of volcano eruptions as this may greatly affect our business.
 
 
