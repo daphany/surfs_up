@@ -11,8 +11,7 @@ We are looking to open up a surf&serve shop in Hawaii; an analysis on weather is
 3. The lowest temperature in June is 64.0°F while its 56.0°F in December
 4. The temperature data more widely spread in December than in June (std 3.75 VS std 3.26)
 
-<img src="june_temp_stats.PNG" width="300"> 
-<img src="dec_temp_stats.PNG" width="300"> 
+<img src="june_temp_stats.PNG" width="300"> <img src="dec_temp_stats.PNG" width="300"> 
 
 
 
