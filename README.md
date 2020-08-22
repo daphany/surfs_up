@@ -1,4 +1,4 @@
-# Surfs_up
+# Surf&Serve Analysis
 <img src="hawaii.jpg" width="500"> 
 
 ## Overview:
